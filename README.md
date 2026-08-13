@@ -21,6 +21,12 @@ Railsの「魔法」のような仕組みを読み解けるようになること
 
 **仕組みを理解すると、Rubyはもっと面白くなる。**
 
+
+📺 [CodeBoost Labo](https://www.youtube.com/@CodeBoostLabo)
+
+
+**[「Rubyのしくみを理解しよう！ ～メタプログラミングの世界から理解するRuby～」](https://www.youtube.com/watch?v=0CoLsMNxN-8&list=PLO0-VLusR9QQ)**
+
 ---
 
 # このシリーズの位置付け
@@ -274,7 +280,7 @@ ruby_metaprogramming/
 
 | 状態 | # | タイトル | ディレクトリ |
 |:---:|---:|---------|--------------|
-| ⏳ | 1 | メタプログラミングとは？ | `01_metaprogramming` |
+| ✅ | 1 | メタプログラミングとは？ | [01_metaprogramming](01_metaprogramming)|
 | ⏳ | 2 | Rubyはすべてオブジェクト | `02_everything_is_object` |
 | ⏳ | 3 | クラスもオブジェクト | `03_classes_are_objects` |
 | ⏳ | 4 | Object・Class・Module | `04_object_class_module` |
