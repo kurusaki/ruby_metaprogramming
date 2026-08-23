@@ -257,7 +257,7 @@ ruby sample2.rb
 user.class: User
 User.class: Class
 User.superclass: Object
-User.object_id: ...
+User.object_id: 16
 Object.class: Class
 Class.class: Class
 ```
