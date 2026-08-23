@@ -139,23 +139,23 @@ ruby sample1.rb
 ```text
 value: 1
 class: Integer
-object_id: ...
+object_id: 3
 
 value: 3.14
 class: Float
-object_id: ...
+object_id: 20536414300809466
 
 value: "Hello"
 class: String
-object_id: ...
+object_id: 16
 
 value: true
 class: TrueClass
-object_id: ...
+object_id: 20
 
 value: nil
 class: NilClass
-object_id: ...
+object_id: 4
 ```
 
 `object_id` の具体的な値は、実行環境などによって異なる場合があります。
