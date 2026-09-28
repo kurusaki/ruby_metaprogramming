@@ -1,0 +1,5 @@
+puts "Object.class: #{Object.class}"
+puts "Class.class: #{Class.class}"
+puts "Class.class.class: #{Class.class.class}"
+puts "ClassはClassのインスタンス？: #{Class.instance_of?(Class)}"
+puts "Class.superclass: #{Class.superclass}"

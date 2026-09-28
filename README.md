@@ -282,7 +282,7 @@ ruby_metaprogramming/
 |:---:|---:|---------|--------------|
 | ✅ | 1 | メタプログラミングとは？ | [01_metaprogramming](01_metaprogramming)|
 | ⏳ | 2 | Rubyはすべてオブジェクト | `02_everything_is_object` |
-| ⏳ | 3 | クラスもオブジェクト | `03_classes_are_objects` |
+| 🚧 | 3 | クラスもオブジェクト | [03_classes_are_objects](03_classes_are_objects) |
 | ⏳ | 4 | Object・Class・Module | `04_object_class_module` |
 | ⏳ | 5 | メソッド探索 | `05_method_lookup` |
 | ⏳ | 6 | Moduleのしくみ | `06_module` |
